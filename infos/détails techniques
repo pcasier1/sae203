@@ -1,0 +1,21 @@
+Création d'un Zoning pour le site
+Création des exercices et questions pour chaque langue (Na'Vi et Cambodgien) cf. Exercices et questions.txt
+Création de la base de donnée et du BDD.inc pour accéder à la BDD SQL
+Création de la structure HTML conformément au zoning 
+intégration du contenu des exercices 
+
+Le sujet
+
+
+La principale fonctionnalité de cette application est de découvrir plusieurs langues (2 au minimum) en effectuant plusieurs séquences (de 3 étapes au minimum) composées d’exercices (3 différents au minimum) intégrant des ressources multimédia.
+Les fonctionnalités d’inscription et de connexion doivent être réalisées pour gérer la progression dans les séquences et les récompenses obtenues en fonction des exercices validés.
+Les données (extraits sonores, images et textes) intégrées à votre application doivent être libres de droit ou peuvent être obtenues en sollicitant directement le serveur les diffusant. L’origine des données doit être précisée dans votre application (exemple du logo de Deezer si vous intégrez ses ressources audio).
+Afin de proposer des séquences différentes, la réutilisation de données ou d’exercices par une adaptation judicieuse est conseillée.
+La réalisation de ces fonctionnalités met en œuvre les technologies du côté client (html5, javascript et les technologies du côté serveur (php et sql).
+Si vous le souhaitez, vous pouvez utiliser le framework css TAILWIND pour mettre en place les mises en forme du site. Ce n'est pas obligatoire, vous pouvez aussi utiliser des feuilles de style "classiques".
+
+Vous ne devez pas utiliser de système de gestion de contenu (Content Management System ou CMS).
+
+Cette application doit respecter les règles d’accessibilité, les normes du W3C et mettre en œuvre les bonnes pratiques de développement.
+
+Cette application sera hébergée sur le serveur la-perso.univ-lemans.fr mis à votre disposition et par l’un des membres du sous-groupe projet.
